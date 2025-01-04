@@ -6,4 +6,6 @@ This is a console command program so to use it you will most likely need a .bat 
 Use -d(ecrypt) for decrypting .zig files and use -e(ncrypt) for making new .zig files from a .big file (it will be written to the output file by the parameter -o)                                                                          
 # New Car Sounds
 You will need a program that can open .big files [(you can find iRipper 1.9 here)](https://sites.google.com/view/toca-rdsport/Utilities), to generate the .big files from .zig files see [Usage](https://github.com/BuilderDemo7/RD3_zig_enc_dec?tab=readme-ov-file#usage).                                     
- 
+# Releases / Download
+You can get all the releases [here](https://github.com/BuilderDemo7/RD3_zig_enc_dec/releases).                
+But the latest release is [this](https://github.com/BuilderDemo7/RD3_zig_enc_dec/releases/latest).    
